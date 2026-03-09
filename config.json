@@ -1,6 +1,6 @@
 
 {
-    "done": "",
+    "TOKEN": "",
     "MONGO_DB": "",
 	"WEBHOOK_URL" : "",
     "cooldown": true,

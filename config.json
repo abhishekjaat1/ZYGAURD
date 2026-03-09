@@ -1,0 +1,16 @@
+
+{
+    "done": "",
+    "MONGO_DB": "",
+	"WEBHOOK_URL" : "",
+    "cooldown": true,
+    "owner": [1225713071557967924],
+    "ZyGuard" : [1225713071557967924],
+    "mainmode": [1225713071557967924],
+    "premium" : [1225713071557967924,1469877466238681224],
+    "admin": [1469877466238681224,1225713071557967924],
+    "np": [1469877466238681224,1225713071557967924],
+    "invite": "https://discord.gg/eCEBaCtJU",
+    
+    "baseText": "```ml\n<> - Required Argument | () - Optional Argument```"
+}
